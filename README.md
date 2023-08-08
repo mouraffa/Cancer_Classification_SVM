@@ -23,7 +23,7 @@ The dataset used in this project is sourced from the [UCI Machine Learning Repos
 
 ## How to Use
 1. Clone this repository to your local machine.
-2. Ensure you have the required libraries installed. You can install them using `pip`: '''pip install pandas numpy matplotlib seaborn scikit-learn'''
+2. Ensure you have the required libraries installed. You can install them using `pip`: `pip install pandas numpy matplotlib seaborn scikit-learn`
 3. Open the Jupyter notebook to view and run the project.
 
 ## Future Enhancements

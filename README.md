@@ -31,9 +31,6 @@ The dataset used in this project is sourced from the [UCI Machine Learning Repos
 - Deep dive into feature engineering for better accuracy.
 - Use techniques like cross-validation for more robust model evaluation.
 
-## License
-This project is open-sourced under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
